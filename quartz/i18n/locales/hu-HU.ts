@@ -36,7 +36,7 @@ export default {
       title: "Fájlböngésző",
     },
     footer: {
-      createdWith: "Készítve ezzel:",
+      createdWith: "Created by MahyarExplores, using:",
     },
     graph: {
       title: "Grafikonnézet",

@@ -36,7 +36,7 @@ export default {
       title: "Зерттеуші",
     },
     footer: {
-      createdWith: "Құрастырылған құрал:",
+      createdWith: "Created by MahyarExplores, using:",
     },
     graph: {
       title: "Граф көрінісі",

@@ -36,7 +36,7 @@ export default {
       title: "Procházet",
     },
     footer: {
-      createdWith: "Vytvořeno pomocí",
+      createdWith: "Created by MahyarExplores, using",
     },
     graph: {
       title: "Graf",

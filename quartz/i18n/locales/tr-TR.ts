@@ -36,7 +36,7 @@ export default {
       title: "Gezgin",
     },
     footer: {
-      createdWith: "Şununla oluşturuldu",
+      createdWith: "Created by MahyarExplores, using",
     },
     graph: {
       title: "Grafik Görünümü",

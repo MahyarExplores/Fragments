@@ -36,7 +36,7 @@ export default {
       title: "Nội dung",
     },
     footer: {
-      createdWith: "Được tạo bằng",
+      createdWith: "Created by MahyarExplores, using",
     },
     graph: {
       title: "Sơ đồ",

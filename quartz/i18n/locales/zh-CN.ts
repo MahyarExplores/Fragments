@@ -36,7 +36,7 @@ export default {
       title: "探索",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "Created by MahyarExplores, using",
     },
     graph: {
       title: "关系图谱",

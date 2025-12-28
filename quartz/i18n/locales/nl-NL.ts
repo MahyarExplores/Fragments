@@ -36,7 +36,7 @@ export default {
       title: "Verkenner",
     },
     footer: {
-      createdWith: "Gemaakt met",
+      createdWith: "Created by MahyarExplores, using",
     },
     graph: {
       title: "Grafiekweergave",

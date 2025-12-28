@@ -37,7 +37,7 @@ export default {
       title: "وضع القارئ",
     },
     footer: {
-      createdWith: "أُنشئ باستخدام",
+      createdWith: "Created by MahyarExplores, using",
     },
     graph: {
       title: "التمثيل التفاعلي",

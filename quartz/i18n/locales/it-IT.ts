@@ -36,7 +36,7 @@ export default {
       title: "Esplora",
     },
     footer: {
-      createdWith: "Creato con",
+      createdWith: "Created by MahyarExplores, using",
     },
     graph: {
       title: "Vista grafico",

@@ -36,7 +36,7 @@ export default {
       title: "Utforsker",
     },
     footer: {
-      createdWith: "Laget med",
+      createdWith: "Created by MahyarExplores, using",
     },
     graph: {
       title: "Graf-visning",

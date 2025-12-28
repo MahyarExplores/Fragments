@@ -36,7 +36,7 @@ export default {
       title: "Naršyklė",
     },
     footer: {
-      createdWith: "Sukurta Su",
+      createdWith: "Created by MahyarExplores, using",
     },
     graph: {
       title: "Grafiko Vaizdas",

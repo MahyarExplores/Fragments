@@ -37,7 +37,7 @@ export default {
       title: "סייר",
     },
     footer: {
-      createdWith: "נוצר באמצעות",
+      createdWith: "Created by MahyarExplores, using",
     },
     graph: {
       title: "מבט גרף",

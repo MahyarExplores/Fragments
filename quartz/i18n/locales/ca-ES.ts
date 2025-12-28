@@ -36,7 +36,7 @@ export default {
       title: "Explorador",
     },
     footer: {
-      createdWith: "Creat amb",
+      createdWith: "Created by MahyarExplores, using",
     },
     graph: {
       title: "Vista Gràfica",

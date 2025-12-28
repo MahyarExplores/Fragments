@@ -37,7 +37,7 @@ export default {
       title: "مطالب",
     },
     footer: {
-      createdWith: "ساخته شده با",
+      createdWith: "ساخته شده توسط MahyarExplores، با استفاده از",
     },
     graph: {
       title: "نمای گراف",
